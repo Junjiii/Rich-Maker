@@ -51,7 +51,7 @@
 
 ## 📌 구현 기능
 ### Login
-![SREAM-로그인](https://github.com/wecode-bootcamp-korea/48-2nd-F_Kiiler-frontend/assets/126768997/1fa0c3fd-92c3-46d6-8a8b-39535b323eae)
+<img width="470" alt="스크린샷 2023-10-18 오전 10 50 26" src="https://github.com/Junjiii/coding_test/assets/138355289/dda75cb0-f062-4673-9aaf-763a20597e50">
 
 [FE] : 실시간 유효성 검사를 통해, 사용자들이 잘못 기입하여 발생할 수 있는 에러를 미연에 방지하였습니다. 인증이 완료된 사용자가 페이지 이동시 매번 로그인하는 수고를 덜 수 있도록, Local Stroage에 토큰을 저장하는 방식 적용하였습니다.
 
