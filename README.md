@@ -53,6 +53,8 @@
 ### Login
 <img width="470" alt="스크린샷 2023-10-18 오전 10 50 26" src="https://github.com/Junjiii/coding_test/assets/138355289/dda75cb0-f062-4673-9aaf-763a20597e50">
 
+![스크린샷 2024-01-09 오후 11 08 01](https://github.com/Junjiii/coding_test/assets/138355289/b0b90074-2d09-4242-a729-3f94e0708a18)
+
 [FE] : 실시간 유효성 검사를 통해, 사용자들이 잘못 기입하여 발생할 수 있는 에러를 미연에 방지하였습니다. 인증이 완료된 사용자가 페이지 이동시 매번 로그인하는 수고를 덜 수 있도록, Local Stroage에 토큰을 저장하는 방식 적용하였습니다.
 
 <br>
@@ -63,7 +65,7 @@
 
 
 ### Sign Up
-![SREAM-회원가입](https://github.com/wecode-bootcamp-korea/48-2nd-F_Kiiler-frontend/assets/126768997/37a5c504-64df-4387-add2-8f254bd67d81)
+
 
 [FE] : 비밀번호 8~15자, 올바른 email 형식, 모든 필수 동의 항목 3가지가 모두 충족할때 회원가입 버튼 활성화되도록 하였습니다. 선택 약관 동의 체크여부를 boolean 값으로 저장하여 POST 요청하였습니다. 신발사이즈 선택 모달창 구현했습니다.
 
